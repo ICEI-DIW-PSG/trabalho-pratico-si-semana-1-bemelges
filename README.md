@@ -9,11 +9,11 @@ Matricula: 897998
 
 ## Tela de inspeção com navegador
 
-<img=src "networkinspec.png" alt= "Foto da inspeção do Spotify">       
+![Inspeção Spotify](images/networkinspec.PNG)
 
 ## Tela de projeto no Replit
 
-<img=src "hellowordreplit.png" alt= "Foto da inspeção do Replit">       
+![Inspeção do Projeto](images/helloworldreplit.PNG)
 
 
 ## Orientações sobre Linguagem MarkDown
