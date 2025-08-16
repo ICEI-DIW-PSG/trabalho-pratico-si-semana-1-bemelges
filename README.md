@@ -4,16 +4,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Bernardo Melges dos Anjos
+Matricula: 897998
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+<img=src "networkinspec.png" alt= "Foto da inspeção do Spotify">       
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+<img=src "hellowordreplit.png" alt= "Foto da inspeção do Replit">       
 
 
 ## Orientações sobre Linguagem MarkDown
