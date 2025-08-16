@@ -13,7 +13,8 @@ Matricula: 897998
 
 ## Tela de projeto no Replit
 
-![Projeto Replit](images/helloworldreplit.PNG)     
+![Projeto Replit](images/replitcode.PNG)     
+![Projeto Replit](images/replitpreview.PNG)   
 
 
 ## Orientações sobre Linguagem MarkDown
