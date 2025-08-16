@@ -13,8 +13,8 @@ Matricula: 897998
 
 ## Tela de projeto no Replit
 
-![Inspeção Spotify](images/replitcode.PNG)
-![Inspeção Spotify](images/replitpreview.PNG)
+![Inspeção Projeto](images/replitcode.PNG)
+![Inspeção Projeto](images/replitpreview.PNG)
 
 
 ## Orientações sobre Linguagem MarkDown
